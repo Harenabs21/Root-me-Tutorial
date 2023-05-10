@@ -23,6 +23,8 @@
 ![ETHERNET-subject](image/Ethernet-subject.png)
 1. Copier le lien du bouton "démarrer le challenge" et l'ouvrir dans un onglet qui va ouvrir un fichier `txt`
 2. Décoder le texte puis copier le mot de passe pour accéder au challenge suivant
+- décodage hexadécimal 
+- décodage en base64
 ![hexa-subject](image/hexa.png)
 &nbsp;
 # CHALLENGE n°4: Authentification-Twitter
@@ -32,6 +34,7 @@
 2. Ouvrir ce fichier sur `wireshark`
 3. Vous trouverez une suele ligne avec le protocole `HTTP`
 4. Suivre puis vous allez trouver un mot de passe encodé, il suffira de le décoder pour passer au challenge suivant
+- décodage en base64
 ![twitter-solution](image/Capture%20d%E2%80%99%C3%A9cran%20(54).png)
 &nbsp;
 # CHALLENGE n°5: Bluetooth-fichier inconnu
